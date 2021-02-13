@@ -1,8 +1,8 @@
 {
     "name": "p0n0marev/phpquery",
-    "license": "GPL-3.0-or-later",
+    "license": "MIT",
     "description": "Server-side, chainable, CSS3 selector driven",
-    "homepage": "https://github.com/p0n0marev/p0n0marev",
+    "homepage": "https://github.com/p0n0marev/phpquery",
     "require": {
         "php": ">=5.6.0"
     },
@@ -13,10 +13,5 @@
         "psr-4": {
             "PhpQuery\\": "src/"
         }
-    },
-    "autoload-dev": {
-        "classmap": [
-            "tests/"
-        ]
     }
 }
